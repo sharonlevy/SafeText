@@ -1,1 +1,2 @@
 # SafeText
+Data coming soon!

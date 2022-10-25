@@ -5,7 +5,7 @@ This repository contains the dataset used in our paper: **SafeText: A Benchmark 
 to appear at EMNLP 2022
 
 
-When using our dataset/code, please cite our paper:
+When using our dataset, please cite our paper:
 
 ```
 @article{levy2022safetext,

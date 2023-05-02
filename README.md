@@ -8,11 +8,22 @@ to appear at EMNLP 2022
 When using our dataset, please cite our paper:
 
 ```
-@article{levy2022safetext,
-  title={SafeText: A Benchmark for Exploring Physical Safety in Language Models},
-  author={Levy, Sharon and Allaway, Emily and Subbiah, Melanie and Chilton, Lydia and Patton, Desmond and McKeown, Kathleen and Wang, William Yang},
-  journal={arXiv preprint arXiv:2210.10045},
-  year={2022}
+@inproceedings{levy-etal-2022-safetext,
+    title = "{S}afe{T}ext: A Benchmark for Exploring Physical Safety in Language Models",
+    author = "Levy, Sharon  and
+      Allaway, Emily  and
+      Subbiah, Melanie  and
+      Chilton, Lydia  and
+      Patton, Desmond  and
+      McKeown, Kathleen  and
+      Wang, William Yang",
+    booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.emnlp-main.154",
+    pages = "2407--2421",
 }
 ```
 
